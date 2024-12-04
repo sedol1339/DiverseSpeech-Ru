@@ -1,5 +1,0 @@
-ipykernel
-pandas
-yt-dlp
-pytimeparse
-librosa

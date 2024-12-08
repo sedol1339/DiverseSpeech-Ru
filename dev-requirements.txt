@@ -1,0 +1,11 @@
+datasets
+tqdm
+ipykernel
+ipywidgets
+gradio
+librosa
+soundfile
+transformers
+torch
+sentencepiece
+punctuators

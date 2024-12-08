@@ -1,5 +1,0 @@
-datasets
-tqdm
-ipykernel
-ipywidgets
-gradio

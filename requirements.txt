@@ -3,3 +3,4 @@ pandas
 yt-dlp
 pytimeparse
 librosa
+datasets

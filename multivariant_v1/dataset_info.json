@@ -1,0 +1,37 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "video_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "video_segment_start_sec": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "video_segment_end_sec": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "srt_transcription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "audio": {
+      "array": {
+        "feature": {
+          "dtype": "float32",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "samling_rate": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
